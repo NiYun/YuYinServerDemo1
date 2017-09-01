@@ -1,0 +1,7 @@
+E:\Git\YuYinServer\YuYinServerDemo1\YuYinServerDemo1\bin\Debug\YuYinServerDemo1.exe.config
+E:\Git\YuYinServer\YuYinServerDemo1\YuYinServerDemo1\bin\Debug\YuYinServerDemo1.exe
+E:\Git\YuYinServer\YuYinServerDemo1\YuYinServerDemo1\bin\Debug\YuYinServerDemo1.pdb
+E:\Git\YuYinServer\YuYinServerDemo1\YuYinServerDemo1\bin\Debug\protobuf-net.dll
+E:\Git\YuYinServer\YuYinServerDemo1\YuYinServerDemo1\obj\Debug\YuYinServerDemo1.exe
+E:\Git\YuYinServer\YuYinServerDemo1\YuYinServerDemo1\obj\Debug\YuYinServerDemo1.pdb
+E:\Git\YuYinServer\YuYinServerDemo1\YuYinServerDemo1\obj\Debug\YuYinServerDemo1.csprojResolveAssemblyReference.cache
